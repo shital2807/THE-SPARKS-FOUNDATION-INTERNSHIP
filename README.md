@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/shital2807/THE-SPARKS-FOUNDATION-INTERNSHIP">
-    <img src=""C:\Users\hasrh\Downloads\5bc0f66db1270.jpg"" alt="Logo" width="300" height="300">
+    <img src=""5bc0f66db1270.jpg"" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">The Sparks Foundation</h3>
